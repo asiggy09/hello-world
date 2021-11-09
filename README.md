@@ -4,3 +4,4 @@ CSE 232 Lab
 Hello,
 
 I am Ashley
+Ashley has glasses
